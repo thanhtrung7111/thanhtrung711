@@ -1,0 +1,131 @@
+
+header {
+    margin-bottom: 127px;
+}
+
+.banner {
+        padding-top: 64px;
+        margin: auto;
+        height: 100%;
+        width: 31%;
+        padding-left: 6px;
+ 
+}
+.banner1 {
+    padding-top: 64px;
+    margin: auto;
+    height: 100%;
+    width: 31%;
+    padding-left: 52px;
+
+}
+.tphcm {
+    color:mediumspringgreen;
+    font-weight: 600;
+    font-size: 55px;
+    float: left;
+    font-family: cursive;
+}
+.nlu {
+    float: left;
+    margin-right: 5px;
+    font-size: 55px;
+    font-family: cursive;
+    color: dimgray;
+    padding-top: 5px;
+}
+a.nav-link {
+    list-style: none;
+    font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 14px;
+    color: black !important;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-right: 20px;
+}
+a.nav-link:hover {
+    color: #8fb59e !important;
+}
+nav.navbar.navbar-expand-sm.navbar-dark.menu-tab {
+    background-color:none !important;
+    border-top: gray solid 2px;
+    text-align: center;
+    border-bottom: gray solid 2px;
+}
+.panel-title {
+    margin-top: 40px;
+}
+.title {
+    float: left;
+    margin-right: 45px;
+}
+.title-tab {
+    padding-top: 12px;
+}
+a.itemTab {
+    background-color: #8fb59e;
+    color: white;
+    padding: 2px;
+    margin-left: 13px;
+}
+a.itemTab:hover {
+    color:white;
+    opacity: 0.8;
+    text-decoration: none;
+}
+.panel-content {
+    height: 930px;
+    border-top: solid 1px gray;
+    margin-top: 26px;
+    padding-top: 35px;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+}
+img.img-rounded {
+    margin-left: -5px;
+}
+footer{
+    padding-top: 40px;
+}
+.footer-banner {
+    height: 350px;
+    background-color: black;
+}
+.copyright {
+    margin-top: -183px;
+    color: gray;
+    margin-left: 384px;
+}
+.number a{
+        color: #8fb59e;
+        padding: 12px;
+        border: solid 1px#8fb59e;
+        font-size: 12px;
+}
+.number {
+    text-align: center;
+    margin-top: 15px;
+}
+.number a:hover {
+    background-color: #8fb59e;
+    color: white;
+    text-decoration: none;
+}
+.number1{
+        background-color: #8fb59e;
+        color: white !important;
+        text-decoration: none;
+}
+button.btn.btn-default {
+    border: 1px solid gray;
+}
+button.btn.btn-default:hover {
+    opacity:0.5;
+}
+.panel-content img.img-rounded {
+    margin-left: 30px;
+    margin-right: 85px;
+}
+.imgae2{
+    margin-top:10px;
+}
