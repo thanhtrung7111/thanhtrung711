@@ -4,53 +4,45 @@ header {
 }
 
 .banner {
-        padding-top: 64px;
-        margin: auto;
-        height: 100%;
-        width: 31%;
-        padding-left: 6px;
- 
-}
-.banner1 {
-    padding-top: 64px;
-    margin: auto;
+    margin-top: -120px;
+    margin-bottom: -210px;
+    padding-top: 0px;
     height: 100%;
     width: 31%;
-    padding-left: 52px;
-
+    padding-left: 6px;
+    margin-left:30px !important;
 }
-.tphcm {
-    color:mediumspringgreen;
-    font-weight: 600;
-    font-size: 55px;
-    float: left;
-    font-family: cursive;
+.banner-icon{
+    margin-top: 15px;
+    float:left;
 }
-.nlu {
-    float: left;
-    margin-right: 5px;
-    font-size: 55px;
-    font-family: cursive;
-    color: dimgray;
-    padding-top: 5px;
+.search{
+        margin-left: 319px;
+        margin-top: 12px;
+    float:left;
+}
+li.nav-item {
+    line-height: 47px;
 }
 a.nav-link {
+    line-height: 27px;
+    font-size: 12px;
     list-style: none;
     font-family: apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-    font-size: 14px;
     color: black !important;
     font-weight: bold;
     text-transform: uppercase;
     margin-right: 20px;
 }
 a.nav-link:hover {
+    text-decoration: none;
     color: #8fb59e !important;
 }
 nav.navbar.navbar-expand-sm.navbar-dark.menu-tab {
-    background-color:none !important;
-    border-top: gray solid 2px;
+    background-color: none !important;
+    border-top: gray solid 1px;
     text-align: center;
-    border-bottom: gray solid 2px;
+    border-bottom: gray solid 1px;
 }
 .panel-title {
     margin-top: 40px;
@@ -89,12 +81,11 @@ a.itemTab:hover {
 img.img-rounded {
     margin-left: -5px;
 }
-footer{
-    padding-top: 40px;
-}
 .footer-banner {
+    padding-top: 10px;
+    padding-left: 130px;
     height: 350px;
-    background-color: black;
+    background-color: POWDERBLUE;
 }
 .copyright {
     margin-top: -183px;
@@ -120,4 +111,86 @@ footer{
         background-color: #8fb59e;
         color: white !important;
         text-decoration: none;
+}
+.footer-social.baloo-social {
+    margin-left: 607px;
+    margin-top: 25px;
+}
+.footer-social.baloo-social a {
+    font-size: 30px;
+    margin-right: 15px;
+}
+div#collapsibleNavId {
+    float:left;
+    margin-left: 259px;
+}
+li.nav-item {
+    list-style: none;
+    margin-left: 9px;
+}
+.contact-me{
+    margin-left: 90px;
+    float: left;
+}
+.contact-me h3{
+        margin-bottom: 26px;
+        color: cadetblue;
+        line-height: 65px;
+}
+.contact-me p{
+        line-height: 0px;
+        font-size: 14px;
+        height: 0px;
+}
+i.fab.fa-facebook-square:hover {
+    opacity: 0.5;
+}
+i.fab.fa-facebook-square {
+    font-size: 30px;
+    margin-right: 10px;
+    margin-top: -15px;
+    color: black;
+}
+i.fab.fa-instagram {
+    font-size: 30px;
+    margin-right: 10px;
+    margin-top: -15px;
+    color: black;
+}
+i.fab.fa-instagram:hover {
+    opacity: 0.5;
+}
+i.fab.fa-youtube {
+    font-size: 30px;
+    margin-right: 10px;
+    margin-top: -15px;
+    color: black;
+}
+i.fab.fa-youtube:hover {
+    opacity: 0.5;
+}
+i.fab.fa-twitter-square {
+    font-size: 30px;
+    margin-top: -15px;
+    color: black;
+}
+i.fab.fa-twitter-square:hover {
+    opacity: 0.5;
+}
+button.btn.btn-info {
+    margin-top: 15px;
+}
+input.input-letter {
+    margin-bottom: 10px;
+}
+textarea#comment {
+    margin-bottom: -22px;
+}
+textarea#comment1 {
+    margin-bottom: -26px;
+}
+#home li{
+    font-size: 20px;
+    font-family: serif;
+    line-height: 30px;
 }
