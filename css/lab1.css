@@ -1,0 +1,129 @@
+.image_tivi{
+    height:100%;
+    width:40%;
+}
+.infomation_tivi{
+    float:left;
+    height:100%;
+    width:60%;
+}
+.detail_tivi{
+    margin-top: 27px;
+    float:left;
+    width:30%;
+    height:100%;
+}
+.detail_tivi div {
+    padding-left: 25px;
+    padding: -6px;
+    border: 1px solid whitesmoke;
+    margin-bottom: 11px;
+}
+.zoom_detail{
+    float:left;
+    width:70%;
+    height:100%;
+}
+.zoom_detail div{
+    margin-top: 48px;
+    margin-left: 19px;
+}
+.tivi_banner {
+    padding-left: 20px;
+    border-bottom: 1px solid antiquewhite;
+    border-left: 1px solid whitesmoke;
+    width: 100%;
+}
+i.fas.fa-star {
+    color: yellow;
+}
+i.fas.fa-chess-queen {
+    color: darkblue;
+}
+.top100:hover{
+    text-decoration: none;
+}
+.content_product{
+    border-left: 2px solid whitesmoke;
+    border-top: 1px solid whitesmoke;
+    padding-left:20px;
+    width:100%;
+}
+.cost{
+    margin-top:10px;
+    width:100%;
+}
+.product_tivi{
+    padding-top:5px;
+    margin-top:10px;
+    border-top:solid 1px whitesmoke;
+    width:100%;
+}
+.gia{
+    float:left;
+}
+.money{
+    margin-top:-6px;
+    float:left;
+}
+.money p {
+    color:red;
+    font-size: 20px;
+}
+.phantram{
+    float:left;
+}
+.phantram p{
+    color:red;
+}
+.tietkiem_panel {
+    float: left;
+    width: 100%;
+}
+.amout{
+    float:left;
+}
+.button_amount{
+    margin-top: 30px;
+    float:left;
+}
+.heart {
+    margin-top: 34px;
+    float: left;
+    margin-left: 25px;
+}
+.number_amout{
+    width: 30px;
+}
+button.btn {
+    background-color: white;
+    border: 1px solid gray;
+    height: 25px;
+    border-radius: inherit;
+}
+button.btn.btn-link {
+    color: white;
+    background-color: red;
+    margin-left: 70px;
+    width: 149px;
+    height: 45px;
+    border-radius: 10px;
+    font-size: 22px;
+    font-family: monospace;
+}
+button.btn.btn-link:hover {
+    text-decoration: none;
+    opacity: 0.5;
+}
+.buy {
+    margin-top: 10px;
+    border-top: 1px solid whitesmoke;
+    padding-top: 10px;
+}
+i.far.fa-heart {
+    color: red;
+    font-size: 36px;
+}
+i.far.fa-heart:hover {
+    color: pink;
+}
